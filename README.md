@@ -14,7 +14,7 @@
 ###
 Prazer, eu me chamo Werlen e tenho 19 anos. Atualmente sou estudante de programação e tenho estudado muito a respeito de deselvolvimento Web, aplicando as tecnologias HTML, CSS e JavaScript. Hoje estou buscando oportunidade na área para poder aplicar meus conhecimentos e aprender cada dia mais.
 
-## 🚀 Minha Especialidade
+## 🚀 Conhecimentos específicos
 
 ### Linguagens e Frameworks de Front-end
 [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
