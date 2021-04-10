@@ -35,7 +35,7 @@ Prazer, eu me chamo Werlen e tenho 19 anos. Atualmente sou estudante de programa
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySql](https://img.shields.io/badge/MySQL-376E8D?style=for-the-badge&logo=mysql&logoColor=F0931C)](https://www.mysql.com/)
 
-## 🤖 Visite também a minha página sobre TI no Intsgram.
+## 🤖 Visite também a minha página sobre TI no Instagram.
 Lá tem conteúdos sobre redes, linux, programação, dicas de segurança e muito mais! E tbm muitos memes de tecnologia! 🚀
 
 [![Instagram](https://img.shields.io/badge/dipping%20security-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dippingsecurity/)
