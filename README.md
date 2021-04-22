@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Prazer, eu me chamo Werlen e tenho 19 anos.
 
-💻 Desenvolvedor Front-end JR, ReactJS. [Werlen Cardoso](https://www.instagram.com/cardosowerlen/). <br>
+💻 Desenvolvedor Front-end | React JS | React Native. [Werlen Cardoso](https://www.instagram.com/cardosowerlen/). <br>
 🏡 Brasil, Belo Horizonte , MG.
 
 ## 💻 Mídias Sociais
