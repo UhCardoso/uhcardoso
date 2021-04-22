@@ -12,7 +12,9 @@
 
 ## 🎓 Sobre Mim 
 ###
-Prazer, eu me chamo Werlen e tenho 19 anos. Atualmente sou estudante de programação e tenho estudado muito a respeito de deselvolvimento Web, aplicando as tecnologias HTML, CSS e JavaScript. Hoje estou buscando oportunidade na área para poder aplicar meus conhecimentos e aprender cada dia mais.
+Prazer, me chamo Werlen e tenho 19 anos. Atualmente sou estudante de programação e tenho estudado muito a respeito do desenvolvimento Web, aplicando as tecnologias HTML, CSS e Javascript. Sempre procuro por em prática, em projetos pessoais, os conhecimentos que venho adquirindo.
+
+Hoje estou buscando oportunidade na área para aplicar meus conhecimentos e aprender cada vez mais, ganhando experiência com os times de desenvolvimento, para me tornar um profissional cada vez melhor. 
 
 ## 🚀 Conhecimentos específicos
 
