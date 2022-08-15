@@ -12,7 +12,7 @@
 
 ## 🎓 Sobre Mim 
 ###
-Prazer! Me chamo Eerlen e tenho 20 anos. Atualmente eu curso bacharelado em Engenharia de Software e sou estudante
+Atualmente eu curso bacharelado em Engenharia de Software e sou estudante
 de programação. Tenho estudado muito a respeito do desenvolvimento Web, aplicando
 as tecnologias HTML, CSS e Javascript. Sempre procuro por em prática, em projetos
 pessoais, os conhecimentos que venho adquirindo.
