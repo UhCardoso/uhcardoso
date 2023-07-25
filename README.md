@@ -5,7 +5,7 @@
 
 ## 💻 Mídias Sociais
 ###
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ogcardosozz/)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uhcardosodev/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/werlen-cardoso/)
 [![My site](https://img.shields.io/badge/portfólio-000?style=for-the-badge&logo=atom&logoColor=F60B0C)](https://werlen-dev.web.app/)
 
