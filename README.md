@@ -1,11 +1,11 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Prazer, eu me chamo Werlen e tenho 21 anos.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Prazer, eu me chamo Werlen e tenho 22 anos.
 
-💻 Desenvolvedor Front-end | React JS | React Native. [Werlen Cardoso](https://www.instagram.com/cardosowerlen/). <br>
+💻 Desenvolvedor se especializando em Front-end. [Werlen Cardoso](https://www.instagram.com/uhcardoso.ti/). <br>
 🏡 Brasil, Belo Horizonte , MG.
 
 ## 💻 Mídias Sociais
 ###
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uhcardosodev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uhcardoso.ti/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/werlen-cardoso/)
 [![My site](https://img.shields.io/badge/portfólio-000?style=for-the-badge&logo=atom&logoColor=F60B0C)](https://werlen-dev.web.app/)
 
@@ -16,9 +16,6 @@ Atualmente eu curso bacharelado em Engenharia de Software e sou estudante
 de programação. Tenho estudado muito a respeito do desenvolvimento Web, aplicando
 as tecnologias HTML, CSS e Javascript. Sempre procuro por em prática, em projetos
 pessoais, os conhecimentos que venho adquirindo.
-
-Hoje estou buscando oportunidade na área para aplicar meus conhecimentos e
-aprender cada vez mais.
 
 ## 🚀 Conhecimentos específicos
 
