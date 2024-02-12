@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Prazer, eu me chamo Werlen e tenho 22 anos.
 
-💻 Desenvolvedor se especializando em Front-end. [Werlen Cardoso](https://www.instagram.com/uhcardoso.ti/). <br>
+💻 Desenvolvedor Fullstack. [Werlen Cardoso](https://www.instagram.com/uhcardoso.ti/). <br>
 🏡 Brasil, Belo Horizonte , MG.
 
 ## 💻 Mídias Sociais
