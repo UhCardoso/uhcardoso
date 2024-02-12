@@ -12,10 +12,11 @@
 
 ## 🎓 Sobre Mim 
 ###
-Atualmente eu curso bacharelado em Engenharia de Software e sou estudante
-de programação. Tenho estudado muito a respeito do desenvolvimento Web, aplicando
-as tecnologias HTML, CSS e Javascript. Sempre procuro por em prática, em projetos
-pessoais, os conhecimentos que venho adquirindo.
+Atualmente, estou no 5º período de Engenharia de Software, mas minha jornada vai muito além das salas de aula.
+
+Tenho me dedicado intensamente ao estudo do desenvolvimento web, aplicando com entusiasmo as tecnologias HTML, CSS e JavaScript. Acredito que a prática constante é a chave para consolidar o conhecimento e aprimorar minhas habilidades.
+
+Meu objetivo é atuar profissionalmente como analista e desenvolvedor de sistemas e evoluir a cada dia, contribuindo para o sucesso da equipe.
 
 ## 🚀 Conhecimentos específicos
 
