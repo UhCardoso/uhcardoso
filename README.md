@@ -33,7 +33,7 @@ Meu objetivo é atuar profissionalmente como analista e desenvolvedor de sistema
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![ExpressJs](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![PHP](https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/laravel-10)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/laravel-10?style=for-the-badge&logo=laravel&logoColor=white&labelColor=red&color=red)](https://laravel.com/)
 
 ### Banco de Dados
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
