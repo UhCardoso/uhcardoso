@@ -27,13 +27,13 @@ Meu objetivo é atuar profissionalmente como analista e desenvolvedor de sistema
 [![sass](https://img.shields.io/badge/sass-C76395?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com//)
 [![JavaScript](https://img.shields.io/badge/Javascript-e1af24?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/angular-ADADAD?style=for-the-badge&logo=angular&logoColor=AF2D2F)](https://angular.io/)
 [![WordPress](https://img.shields.io/badge/wordpress-207196?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/pt-br/)
 
 ### Linguagens e Frameworks de Back-end
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![ExpressJs](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![PHP](https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/laravel-10)](https://laravel.com/)
 
 ### Banco de Dados
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
