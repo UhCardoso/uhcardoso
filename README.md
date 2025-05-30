@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Prazer, eu me chamo Werlen e tenho 22 anos.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Prazer, eu me chamo Werlen e tenho 23 anos.
 
 💻 Desenvolvedor Fullstack. [Werlen Cardoso](https://www.instagram.com/uhcardoso.ti/). <br>
 🏡 Brasil, Belo Horizonte , MG.
@@ -38,3 +38,8 @@ Meu objetivo é atuar profissionalmente como analista e desenvolvedor de sistema
 ### Banco de Dados
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySql](https://img.shields.io/badge/MySQL-376E8D?style=for-the-badge&logo=mysql&logoColor=F0931C)](https://www.mysql.com/)
+
+<p align="center">
+  Visitor Count!<br>
+  <img src="https://profile-counter.glitch.me/uhcardoso/count.svg" />
+</p>
