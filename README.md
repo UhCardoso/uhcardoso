@@ -40,6 +40,5 @@ Meu objetivo é atuar profissionalmente como analista e desenvolvedor de sistema
 [![MySql](https://img.shields.io/badge/MySQL-376E8D?style=for-the-badge&logo=mysql&logoColor=F0931C)](https://www.mysql.com/)
 
 <p align="center">
-  Visitor Count!<br>
   <img src="https://profile-counter.glitch.me/uhcardoso/count.svg" />
 </p>
